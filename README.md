@@ -6,7 +6,7 @@
   * [Bitbucket/Stash](#bitbucketstash)
   * [Github](#github)
 * [Code Manager Setup](#code-manager-setup)
-
+  
 
 ## What You Get From This control-repo
 
